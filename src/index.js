@@ -14,7 +14,6 @@ ReactDOM.render(
         <Route path="expenses" element={<Expenses />} />
         <Route path="invoices" element={<Invoices />} />
       </Route>
-
     </Routes>
   </BrowserRouter>
   ,
